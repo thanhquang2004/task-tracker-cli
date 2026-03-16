@@ -1,1 +1,16 @@
-{}
+[
+    {
+        "id": 1,
+        "description": "Learn Python",
+        "status": "in-progress",
+        "createdAt": "2026-03-16 17:18:58",
+        "updatedAt": "2026-03-16 17:21:48"
+    },
+    {
+        "id": 2,
+        "description": "Learn Python function",
+        "status": "done",
+        "createdAt": "2026-03-16 17:19:17",
+        "updatedAt": "2026-03-16 17:21:07"
+    }
+]
